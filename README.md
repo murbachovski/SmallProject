@@ -39,19 +39,19 @@ FastAPI 기반 **이미지 캡셔닝** 웹 애플리케이션<br>
 👉 [바로 가기](https://github.com/murbachovski/SmallProject/tree/main/like_text3/gr_trans_en2ko)<br>
 ♒︎ 영어 문장을 입력하면 자연스럽게 한국어로 번역해주는  
 웹 기반 번역 애플리케이션
-
 ---
 
 ## 🇺🇸 like_text4/grammer_corr
+👉 [바로 가기](https://github.com/murbachovski/SmallProject/tree/main/like_text4/grammer_corr)<br>
 웹에서 영어 문장을 입력받아 language_tool_python으로 문법과 맞춤법을 자동 교정하고  
 이미 깔끔한 문장에는 친절한 안내 메시지를 보여주는 FastAPI 웹 서비스
-
 ---
 
 ## 🎤 like_text5/stt
+👉 [바로 가기](https://github.com/murbachovski/SmallProject/tree/main/like_text5/stt)<br>
+
 Whisper로 음성을 텍스트로 변환하고, Hugging Face의 BART 요약 모델로 요약 후  
 Google Translate로 한국어 번역을 제공하는 FastAPI 웹 서비스
-
 ---
 
 ## 𑿿 like_text6/llama
