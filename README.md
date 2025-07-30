@@ -13,7 +13,7 @@
 ## 🖼️ like_img_text/img2caption  
 ✨ 업로드한 이미지를 자동으로 설명해주는  
 FastAPI 기반 **이미지 캡셔닝** 웹 애플리케이션
-
+[바로 가기](https://github.com/murbachovski/SmallProject/like_img_text/img2caption)<br>
 ---
 
 ## 🏅 like_regression/student_performance
