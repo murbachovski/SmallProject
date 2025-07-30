@@ -20,23 +20,23 @@ FastAPI 기반 **이미지 캡셔닝** 웹 애플리케이션<br>
 👉 [바로 가기](https://github.com/murbachovski/SmallProject/tree/main/like_regression/student_performance)<br>
 📖 학생 데이터 기반 머신러닝을 활용해 GPA를 예측하는  
 회귀 모델 프로젝트
-
 ---
 
-## 📝 like_text/text2sum2trans_en  
+## 📝 like_text/text2sum2trans_en
+👉 [바로 가기](https://github.com/murbachovski/SmallProject/tree/main/like_text/text2sum2trans_en)<br>
 ⚡ 영어 문장을 자동으로 요약하고  
 한국어로 번역해주는 FastAPI 기반 웹 애플리케이션
-
 ---
 
 ## 🧑‍💻 like_text2/trans_senti
+👉 [바로 가기](https://github.com/murbachovski/SmallProject/tree/main/like_text2/trans_senti)<br>
 ✨ Hugging Face Transformers 기반으로  
 영어 문장에 대해 긍정(POSITIVE) 또는 부정(NEGATIVE)을 분류하는  
 간단하고 강력한 텍스트 감정 분석 모델
-
 ---
 
 ## 𐎟 like_text3/gr_trans_en2ko
+👉 [바로 가기](https://github.com/murbachovski/SmallProject/tree/main/like_text3/gr_trans_en2ko)<br>
 ♒︎ 영어 문장을 입력하면 자연스럽게 한국어로 번역해주는  
 웹 기반 번역 애플리케이션
 
