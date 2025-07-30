@@ -11,12 +11,13 @@
 ---
 
 ## 🖼️ like_img_text/img2caption  
+👉 [바로 가기](https://github.com/murbachovski/SmallProject/tree/main/like_img_text/img2caption)
 ✨ 업로드한 이미지를 자동으로 설명해주는  
 FastAPI 기반 **이미지 캡셔닝** 웹 애플리케이션<br>
-👉 [바로 가기](https://github.com/murbachovski/SmallProject/tree/main/like_img_text/img2caption)
 ---
 
 ## 🏅 like_regression/student_performance
+👉 [바로 가기](https://github.com/murbachovski/SmallProject/tree/main/like_regression/student_performance)
 📖 학생 데이터 기반 머신러닝을 활용해 GPA를 예측하는  
 회귀 모델 프로젝트
 
