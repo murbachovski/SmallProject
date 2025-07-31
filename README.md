@@ -66,8 +66,8 @@ LMStudio 기반의 로컬 LLM 챗봇
 
 ---
 
-## 𑿿 like_text6/llama_trans
-👉 [바로 가기](https://github.com/murbachovski/SmallProject/tree/main/like_text6/llama_trans)<br>
+## 𑿿 like_text7/llama_trans
+👉 [바로 가기](https://github.com/murbachovski/SmallProject/tree/main/like_text7/llama_trans)<br>
 LMStudio 기반의 로컬 LLM 챗봇(번역 기능 추가)
 
 ---
