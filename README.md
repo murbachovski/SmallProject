@@ -109,9 +109,10 @@ iTerm2 터미널에서 바로 출력하는 도구
 ---
 
 ## 🖼️ like_vision6/ocr_eng
-👉 [바로 가기](https://github.com/murbachovski/SmallProject/tree/main/)<br>
+👉 [바로 가기](https://github.com/murbachovski/SmallProject/tree/main/like_vision6/ocr_eng)<br>
 🎇 OCR 웹 서비스 (FastAPI + Tesseract)<br>
 ✨ 이미지를 업로드하면 Tesseract OCR을 이용해 텍스트(영어)를 추출해주는  
 FastAPI 기반의 간단하고 직관적인 웹 애플리케이션
 
 ---
+
